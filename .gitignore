@@ -1,0 +1,10 @@
+/config/config.php
+/storage/*.log
+/storage/sessions/
+/storage/edge-profile*/
+/storage/edge-convert/
+/storage/browser-check/
+/storage/og-cover.png
+/tools/bin/
+/.idea/
+/.vscode/

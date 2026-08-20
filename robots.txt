@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /app/
+Disallow: /config/
+Disallow: /database/
+
+Sitemap: https://example.ru/sitemap.xml
+
